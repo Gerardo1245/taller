@@ -1,0 +1,31 @@
+.Hero_main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    //background: red;
+    flex-wrap: wrap;
+
+    .Hero_img{
+        img{
+            width: 500px;
+        }
+    }
+
+}
+.Hero_text{
+    width: 30%;
+
+    .hero_title{
+        color: #262626;
+        font-size: 40px;
+
+    }
+    
+    .herohcontent{
+        color: #a1a1a1;
+        font-size: 12px;
+
+    
+
+    }
+}
